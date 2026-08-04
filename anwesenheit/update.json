@@ -1,8 +1,8 @@
 {
-    "versionCode":  2,
-    "versionName":  "1.1",
-    "apkUrl":  "https://github.com/adogan5811/baumanager-app-updates/releases/download/anwesenheit-v1.1/anwesenheit-1.1.apk",
-    "sha256":  "72b450abbf18c4a6131c1853b3961c06964b0c34e4e7812aeeefba7f08dec1d2",
-    "changelog":  "Kolonnen-Ansicht und schnellere Suche",
+    "versionCode":  3,
+    "versionName":  "1.2",
+    "apkUrl":  "https://github.com/adogan5811/baumanager-app-updates/releases/download/anwesenheit-v1.2/anwesenheit-1.2.apk",
+    "sha256":  "8307c96f4db55b79972ad1f68f4a59163cb1d26e9d0bbb36fdf3f5f3fcec9892",
+    "changelog":  "Einstellungen aufgeräumt, Version korrekt angezeigt",
     "pflicht":  false
 }
