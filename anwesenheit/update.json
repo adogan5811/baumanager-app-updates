@@ -1,8 +1,8 @@
 {
   "versionCode": 1,
   "versionName": "1.0",
-  "apkUrl": "",
+  "apkUrl": "https://github.com/adogan5811/baumanager-app-updates/releases/download/anwesenheit-v1.1/app-debug.apk",
   "sha256": "",
-  "changelog": "Erste Version",
+  "changelog": "Erstes Test-Update",
   "pflicht": false
 }
