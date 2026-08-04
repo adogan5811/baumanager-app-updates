@@ -1,8 +1,8 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "apkUrl": "",
-  "sha256": "",
-  "changelog": "Erste Version",
-  "pflicht": false
+    "versionCode":  2,
+    "versionName":  "1.1",
+    "apkUrl":  "https://github.com/adogan5811/baumanager-app-updates/releases/download/doku-v1.1/doku-1.1.apk",
+    "sha256":  "aee660a817c01f6ae38b1386a04d43b58cea614512961debec5f701368c5be43",
+    "changelog":  "Auskundungen jetzt mit Adressen verknüpft",
+    "pflicht":  false
 }
