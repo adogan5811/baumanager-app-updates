@@ -1,8 +1,8 @@
 {
-    "versionCode":  2,
-    "versionName":  "1.1",
-    "apkUrl":  "https://github.com/adogan5811/baumanager-app-updates/releases/download/doku-v1.1/doku-1.1.apk",
-    "sha256":  "aee660a817c01f6ae38b1386a04d43b58cea614512961debec5f701368c5be43",
-    "changelog":  "Auskundungen jetzt mit Adressen verknüpft",
+    "versionCode":  3,
+    "versionName":  "1.2",
+    "apkUrl":  "https://github.com/adogan5811/baumanager-app-updates/releases/download/doku-v1.2/doku-1.2.apk",
+    "sha256":  "14cb59aeac5c71f6252daf3912bae4a212685cdfaa4c5dc755fcdce77cd07d00",
+    "changelog":  "Kartenansicht je Hausanschluss mit Anschlussrichtung und Farbe",
     "pflicht":  false
 }
