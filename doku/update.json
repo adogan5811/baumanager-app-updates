@@ -1,8 +1,8 @@
 {
-    "versionCode":  5,
+    "versionCode":  6,
     "versionName":  "1.4",
     "apkUrl":  "https://github.com/adogan5811/baumanager-app-updates/releases/download/doku-v1.4/doku-1.4.apk",
-    "sha256":  "36b3bc056a480e89147230dcbb13b5e2506ac6177a19f1e4eb5de12a1183ab14",
+    "sha256":  "87e4d7ca076c40ac8808361192f205a90612757550dd9bfed5b9aa889c7e3403",
     "changelog":  "Mängel Checkup",
     "pflicht":  false
 }
