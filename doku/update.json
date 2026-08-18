@@ -1,8 +1,8 @@
 {
-    "versionCode":  7,
-    "versionName":  "1.5",
-    "apkUrl":  "https://github.com/adogan5811/baumanager-app-updates/releases/download/doku-v1.5/doku-1.5.apk",
-    "sha256":  "877b65a952efb9246499736d9f5acf8ce0801e5f50933458344435538757acd7",
-    "changelog":  "Update-Downloader gehaertet (HTTP/1.1)",
+    "versionCode":  8,
+    "versionName":  "1.6",
+    "apkUrl":  "https://github.com/adogan5811/baumanager-app-updates/releases/download/doku-v1.6/doku-1.6.apk",
+    "sha256":  "1b42781676edcbda62de1c88413ac4e47ef844a5c1e3238a916e888584f13c04",
+    "changelog":  "HA Mangel",
     "pflicht":  false
 }
