@@ -1,8 +1,8 @@
 {
-    "versionCode":  3,
-    "versionName":  "1.2",
-    "apkUrl":  "https://github.com/adogan5811/baumanager-app-updates/releases/download/terminier-v1.2/terminier-1.2.apk",
-    "sha256":  "02fac919f46b4fdd9f72abfbf681663d7c05d101b600f1e428a44ac01e489e28",
-    "changelog":  "Terminier Hinweise ",
+    "versionCode":  4,
+    "versionName":  "1.3",
+    "apkUrl":  "https://github.com/adogan5811/baumanager-app-updates/releases/download/terminier-v1.3/terminier-1.3.apk",
+    "sha256":  "900c27433af5c1d736f2bd34f254439c9d11346b7cbb65b8961dfabe59e5f8cb",
+    "changelog":  "Nach GVS/NVT sortierbar",
     "pflicht":  false
 }
