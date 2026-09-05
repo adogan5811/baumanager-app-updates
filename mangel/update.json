@@ -1,8 +1,8 @@
 {
-    "versionCode": 1,
-    "versionName": "1.0",
-    "apkUrl": "https://github.com/adogan5811/baumanager-app-updates/releases/download/mangel-v1.0/mangel-1.0.apk",
-    "sha256": "",
-    "changelog": "",
-    "pflicht": false
+    "versionCode":  3,
+    "versionName":  "1.1",
+    "apkUrl":  "https://github.com/adogan5811/baumanager-app-updates/releases/download/mangel-v1.1/mangel-1.1.apk",
+    "sha256":  "7d842ed415e6d0f67b72e06055083d085f71af84569f1dec03c762d961af1369",
+    "changelog":  "Login mit Geräteschlüssel + kompakter Kopf",
+    "pflicht":  false
 }
