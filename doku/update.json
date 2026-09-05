@@ -1,8 +1,8 @@
 {
-    "versionCode":  9,
-    "versionName":  "1.7",
-    "apkUrl":  "https://github.com/adogan5811/baumanager-app-updates/releases/download/doku-v1.7/doku-1.7.apk",
-    "sha256":  "261fd1d8c95b04e1194543a79a004fbb25d681d4f3a377c1c6319842b64e9683",
-    "changelog":  "Foto Fix",
+    "versionCode":  10,
+    "versionName":  "1.8",
+    "apkUrl":  "https://github.com/adogan5811/baumanager-app-updates/releases/download/doku-v1.8/doku-1.8.apk",
+    "sha256":  "b0f16d0b270cdd7ce80094d438df31adc6f7a74b1846078a44bb18faf04de47a",
+    "changelog":  "Login mit Geräteschlüssel + kompakterer Startbildschirm",
     "pflicht":  false
 }
