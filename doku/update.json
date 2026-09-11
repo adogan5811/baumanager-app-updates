@@ -1,8 +1,8 @@
 {
-    "versionCode":  12,
-    "versionName":  "1.10",
-    "apkUrl":  "https://github.com/adogan5811/baumanager-app-updates/releases/download/doku-v1.10/doku-1.10.apk",
-    "sha256":  "e634cb3b6039e18fd2beb5c5bee0f6f6ff5b6f7ca4fafcd1a96d9ed3b2b34775",
-    "changelog":  "Hausanschluss: Foto-Kategorien in der Kamera; Firmenlogo im Start größer",
+    "versionCode":  13,
+    "versionName":  "1.11",
+    "apkUrl":  "https://github.com/adogan5811/baumanager-app-updates/releases/download/doku-v1.11/doku-1.11.apk",
+    "sha256":  "696a83b8690cb7a2cc7ee7299c96740a003f11d23393a264bb95a25a71c4b18c",
+    "changelog":  "Karten-Elemente auf dem Handy leichter treffbar (größere Touch-Flächen)",
     "pflicht":  false
 }
