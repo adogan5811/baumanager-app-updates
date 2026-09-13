@@ -1,0 +1,8 @@
+{
+    "versionCode":  3,
+    "versionName":  "1.0",
+    "apkUrl":  "https://github.com/adogan5811/baumanager-app-updates/releases/download/auskundung-v1.0/auskundung-1.0.apk",
+    "sha256":  "77e1654e67cb297bddc7a7d7784b0479177fcfd207d3a3720b33dbe6034aab95",
+    "changelog":  "Suche (Projekt/Adresse), DB-Auskundungen sichtbar, Firmenlogo aus Verwaltung",
+    "pflicht":  false
+}
